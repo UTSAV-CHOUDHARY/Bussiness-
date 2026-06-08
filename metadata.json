@@ -1,0 +1,6 @@
+{
+  "name": "Elite Roof & Air Solutions",
+  "description": "High-fidelity, elegant presentation and engagement platform for Elite Roof & Air Solutions. Features interactive cost estimators, emergency repair dispatch system, live customer feedback hub, tabbed project showcase, zip-code diagnostic coverage checker, interactive team bios, and blog center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
